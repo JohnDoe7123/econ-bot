@@ -1,4 +1,39 @@
 {
-    "banks": {},
-    "generators": {}
+    "banks": {
+        "Security Department": {
+            "owner_id": "515238753690714112",
+            "balance": 43750.99,
+            "managers": []
+        },
+        "Administrative Department": {
+            "owner_id": "515238753690714112",
+            "balance": 0.0,
+            "managers": []
+        },
+        "Test": {
+            "owner_id": "602068113621516288",
+            "balance": 120000.0,
+            "managers": []
+        }
+    },
+    "generators": {
+        "Security Department": {
+            "low": 0,
+            "middle": 0,
+            "high": 3,
+            "top": 0
+        },
+        "Administrative Department": {
+            "low": 0,
+            "middle": 0,
+            "high": 0,
+            "top": 0
+        },
+        "Test": {
+            "low": 0,
+            "middle": 0,
+            "high": 0,
+            "top": 2
+        }
+    }
 }
